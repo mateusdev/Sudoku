@@ -21,6 +21,9 @@ INSTRUÇÕES:
   
 
 Jogo escrito inicialmente por:
+
   Mateus Gualberto
+  
 Testadores:
+
   Raynara Silva | FACEBOOK: https://www.facebook.com/raynara.silva.942
