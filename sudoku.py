@@ -1,11 +1,6 @@
 #!/usr/bin/python3
 # -*- coding: utf8 -*-
 
-# Mateus Gualberto de Sousa Santos - 416766
-# Raynara dos Santos Silva - 418097
-# Lucas Souza Marques - 408863
-
-
 matriz = [
             ['0', '0', '0','0', '0', '0','0', '0', '0'],
             ['0', '0', '0','0', '0', '0','0', '0', '0'],
